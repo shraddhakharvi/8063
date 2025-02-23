@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/cc7ae58f-c632-4654-9a0b-3333c00efdf0)
+
 # Bank Term Deposit Prediction Project
 
 This project focuses on predicting whether clients will subscribe to a term deposit using machine learning models. The dataset provided contains information on customer demographics, past interactions, and campaign outcomes. This repository includes the analysis, modeling, and insights obtained from the dataset.
